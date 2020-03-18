@@ -1,0 +1,9 @@
+.btn-yellow{
+	background-color:#E69F2F;
+	padding:10px 15px;
+	border-radius: 4%;
+	color: white;
+	font-weight: bold;
+	font-family: roboto;
+	margin-right: 25px; 
+}
